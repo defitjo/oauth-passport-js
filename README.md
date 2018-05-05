@@ -7,3 +7,8 @@ Following the [OAuth Login Tutorial](https://www.youtube.com/playlist?list=PL4cU
 The goal of this project is to set up an authentication system using Passport.js and Google+
 
 I added an authentication system using Github as well
+
+Screenshots of app:
+![home](/home.png)
+![login](/login.png)
+![profile](/profile.png)
