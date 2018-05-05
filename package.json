@@ -1,0 +1,29 @@
+{
+  "name": "oauth-passport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defitjo/oauth-passport-js.git"
+  },
+  "author": "Devon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defitjo/oauth-passport-js/issues"
+  },
+  "homepage": "https://github.com/defitjo/oauth-passport-js#readme",
+  "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17",
+    "nodemon": "^1.17.3",
+    "passport": "^0.4.0",
+    "passport-github": "^1.1.0",
+    "passport-google-oauth20": "^1.0.0"
+  }
+}

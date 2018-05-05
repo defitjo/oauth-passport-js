@@ -1,0 +1,111 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+#home-header,
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+#home-header {
+    font-size: 60px;
+    text-align: center;
+}
+
+main #home-para {
+    padding-left: 281px;
+    font-size: 20px;
+}
+
+#code {
+    color: #08605f;
+}
+
+.bracket {
+    color: #ed6a5a;
+}
+
+#pal {
+    color: #177e89;
+}
+
+nav {
+    background: #738290;
+    padding: 20px 10px;
+}
+
+nav ul {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 10px 0 0;
+}
+
+nav a {
+    color: #fff;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.2);
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    border-radius: 20px;
+}
+
+main,
+header {
+    max-width: 960px;
+    margin: 30px auto;
+    padding: 0 10px;
+    color: #333;
+}
+
+main img {
+    width: 40px;
+    margin-right: 10px;
+    position: relative;
+    top: 12px;
+}
+
+main p {
+    display: inline-block;
+}
+
+#searching {
+    padding: 8px;
+    width: 40%;
+}
+
+#enter {
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #4caf50;
+    cursor: pointer;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 20px;
+}
+
+#enter:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login li {
+    list-style-type: none;
+    padding-bottom: 30px;
+}
+
+#git,
+#goog {
+    width: 360px;
+    height: 34px;
+}
